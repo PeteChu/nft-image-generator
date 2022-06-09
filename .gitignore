@@ -4,3 +4,6 @@ images/*
 metadata/*
 !images/.keep
 !metadata/.keep
+trait-layers/*
+
+.ipynb_checkpoints
