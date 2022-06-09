@@ -301,5 +301,9 @@
         "Cheek",
         "Hand"
     ],
-    "incompatibilities": []
+    "incompatibilities": [{
+        "layer": "",
+        "value": "",
+        "incompatible_with": []
+    }]
 }
