@@ -8,3 +8,5 @@ trait-layers/*
 !trait-layers/.keep
 
 .ipynb_checkpoints
+
+venv/
