@@ -7,6 +7,9 @@ metadata/*
 trait-layers/*
 !trait-layers/.keep
 
+layer_config.json
+!layer_config.json.example
+
 .ipynb_checkpoints
 
 venv/
